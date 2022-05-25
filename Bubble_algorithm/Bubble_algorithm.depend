@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653489831 source:e:\progs\!!magic smoke exercises\bubble_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
